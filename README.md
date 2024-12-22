@@ -17,7 +17,7 @@ No trabalho 3 de Projeto de Algoritmos, no módulo sobre "Dividir e Conquistar" 
 ### 215.  Kth Largest Element in an Array  (Counting Inversions - Medium)
 
 - [Link da Questão](https://leetcode.com/problems/kth-largest-element-in-an-array)
-- [Vídeo - Explicação]() 
+- [Vídeo - Explicação](https://youtu.be/asSPSPG63Xo) 
 
   
 <div align="left">
@@ -30,7 +30,7 @@ No trabalho 3 de Projeto de Algoritmos, no módulo sobre "Dividir e Conquistar" 
 
 
 - [Link da Questão](https://leetcode.com/problems/reverse-pairs)
-- [Vídeo - Explicação]()
+- [Vídeo - Explicação](https://youtu.be/asSPSPG63Xo)
   
 
 <div align="left">
