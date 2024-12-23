@@ -45,19 +45,19 @@ No trabalho 3 de Projeto de Algoritmos, no módulo sobre "Dividir e Conquistar" 
 - [Vídeo - Explicação](https://youtu.be/BMyp8rkCMXc)
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/be3a7ec9-4171-4ce2-8b20-577d4de5b46c" width="700" alt="Questão 847">
+  <img src="https://github.com/user-attachments/assets/be3a7ec9-4171-4ce2-8b20-577d4de5b46c" width="700" alt="Questão 4">
   <br>
   <em>Imagem 3 - Questão 4</em>
 </div>
 
-### X. xxx
-- [Link da Questão]()
-- [Vídeo - Explicação]()
+### 23. Merge k Sorted Lists
+- [Link da Questão](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Vídeo - Explicação](https://youtu.be/BsnlLqylK9I)
 
 <div align="left">
-  <img src="" width="700" alt="Questão 1584">
+  <img src="https://github.com/user-attachments/assets/e7047bed-6d68-4e02-8abb-bda0a6b0520f" width="700" alt="Questão 23">
   <br>
-  <em>Imagem 4 - Questão X</em>
+  <em>Imagem 4 - Questão 4</em>
 </div>
 
 
