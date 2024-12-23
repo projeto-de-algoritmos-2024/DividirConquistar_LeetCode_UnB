@@ -50,7 +50,7 @@ No trabalho 3 de Projeto de Algoritmos, no módulo sobre "Dividir e Conquistar" 
   <em>Imagem 3 - Questão 4</em>
 </div>
 
-### 23. Merge k Sorted Lists
+### 23. Merge k Sorted Lists (HARD)
 - [Link da Questão](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Vídeo - Explicação](https://youtu.be/BsnlLqylK9I)
 
