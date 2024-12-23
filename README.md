@@ -1,6 +1,6 @@
 # Dividir e Conquistar - LeetCode Questões
 
-**Número da Lista**: X<br>
+**Número da Lista**: 45<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
@@ -27,7 +27,6 @@ No trabalho 3 de Projeto de Algoritmos, no módulo sobre "Dividir e Conquistar" 
 </div>
 
 ### 493. Reverse Pairs (MOM - Hard)
-
 
 - [Link da Questão](https://leetcode.com/problems/reverse-pairs)
 - [Vídeo - Explicação](https://youtu.be/asSPSPG63Xo)
