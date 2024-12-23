@@ -57,7 +57,7 @@ No trabalho 3 de Projeto de Algoritmos, no módulo sobre "Dividir e Conquistar" 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/e7047bed-6d68-4e02-8abb-bda0a6b0520f" width="700" alt="Questão 23">
   <br>
-  <em>Imagem 4 - Questão 4</em>
+  <em>Imagem 4 - Questão 23</em>
 </div>
 
 
