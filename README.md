@@ -10,7 +10,7 @@
 | 22/1007680  |  Bruno Ricardo de Menezes |
 
 ## Sobre 
-No trabalho 3 de Projeto de Algoritmos, no módulo sobre "Dividir e Conquistar" na disciplina, a dupla selecionou algumas questões do LeetCode. Sendo elas X de nível difícil e X de nível médio.
+No trabalho 3 de Projeto de Algoritmos, no módulo sobre "Dividir e Conquistar" na disciplina, a dupla selecionou algumas questões do LeetCode. Sendo elas 3 de nível difícil e 1 de nível médio.
 
 ## Screenshots (Questões)
 
