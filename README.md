@@ -39,15 +39,15 @@ No trabalho 3 de Projeto de Algoritmos, no módulo sobre "Dividir e Conquistar" 
   <em>Imagem 2 - Questão 493</em>
 </div>
 
-### X. xxx
+### 4. Median of Two Sorted Arrays (Hard)
 
-- [Link da Questão]()
-- [Vídeo - Explicação]()
+- [Link da Questão](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Vídeo - Explicação](https://youtu.be/BMyp8rkCMXc)
 
 <div align="left">
-  <img src="" width="700" alt="Questão 847">
+  <img src="https://github.com/user-attachments/assets/be3a7ec9-4171-4ce2-8b20-577d4de5b46c" width="700" alt="Questão 847">
   <br>
-  <em>Imagem 3 - Questão X</em>
+  <em>Imagem 3 - Questão 4</em>
 </div>
 
 ### X. xxx
