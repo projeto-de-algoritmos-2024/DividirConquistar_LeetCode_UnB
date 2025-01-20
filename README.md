@@ -1,6 +1,6 @@
 # Dividir e Conquistar - LeetCode Questões
 
-**Número da Lista**: 45<br>
+**Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
